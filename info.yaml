@@ -27,7 +27,7 @@ pinout:
 
   # Outputs
   uo[0]: "out_and"
-  uo[1]: "out_nad"
+  uo[1]: "out_nand"
   uo[2]: "out_xor"
   uo[3]: "out_xnor"
   uo[4]: ""
