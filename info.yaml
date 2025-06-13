@@ -1,7 +1,7 @@
 A# Tiny Tapeout project information (Wokwi project)
 project:
   wokwi_id:     433661874178611201       # Set this to the ID of your Wokwi project (the number from the project's URL)
-  title:        "Wokwi tapeout project"      # Project title
+  title:        "Wokwi_tapeout_project"      # Project title
   author:       "Stacey Halsey"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  "This circuit implements a four gate AND, NAND XOR and XNOR where each input has one bit"      # One line description of what your project does
